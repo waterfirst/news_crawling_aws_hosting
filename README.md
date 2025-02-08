@@ -1,5 +1,7 @@
 안녕하세요! 뉴스 크롤러를 구축하고 AWS S3를 사용하여 결과를 호스팅하는 전체 과정을 단계별로 정리한 매뉴얼을 제공해드리겠습니다. 이 매뉴얼을 따라 하시면 Python과 VS Code 설치부터 AWS 설정, Python 스크립트 작성 및 실행, 비용 관리까지 모든 과정을 원활하게 완료하실 수 있습니다.
 
+https://my-news-report-bucket-unique123.s3.ap-northeast-2.amazonaws.com/news_report.html
+
 ## 목차
 
 1. [필요한 도구 및 사전 준비](#1-필요한-도구-및-사전-준비)
